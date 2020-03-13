@@ -1,5 +1,6 @@
 remote_theme: italia/design-jekyll-theme
-name: "Prova"
+name: 
+    it: "Prova"
 social-links:
     twitter:
         name: "twitter"
